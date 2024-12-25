@@ -4,5 +4,5 @@ Utility script for generating Iranian randomized vcards for smartphone contact t
 
 ## run
 ```python
-
+python3 main.py random_contacts.vcf 20000
 ```
